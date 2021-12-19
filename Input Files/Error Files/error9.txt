@@ -1,0 +1,9 @@
+var x;
+begin
+	x := 5;
+	while x >= 0 
+		begin
+			x := x - 1;
+			write x
+		end
+end.

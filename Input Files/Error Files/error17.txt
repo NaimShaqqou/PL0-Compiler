@@ -1,0 +1,4 @@
+var x;
+begin
+	x := 14 (51 % 7);
+end.

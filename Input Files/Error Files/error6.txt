@@ -1,0 +1,7 @@
+const c := 0; 
+var a, b;
+begin
+	a := 15 * 3;
+	b := 5 + 6 + 7;
+	c := a + b
+end.

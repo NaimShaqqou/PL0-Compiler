@@ -1,0 +1,5 @@
+const alpha := 0;
+var x;
+begin
+	x := 14 * alpha + (51 % 7;
+end.
