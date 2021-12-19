@@ -1,0 +1,6 @@
+var x, y, z;
+begin
+	x := 5;
+	y := 2
+	if odd x * y then z := x * y
+end.
